@@ -1,0 +1,5 @@
+numpy
+scipy
+faster-whisper
+pillow
+pycairo

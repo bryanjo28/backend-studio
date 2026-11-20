@@ -1,0 +1,21 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+projects/*/build/
+projects/*/out/
+examples/*/build/
+examples/*/out/
+*.log
+
+# Local projects, story drafts, generated media and secrets
+projects/
+ideas/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.pytest_cache/
